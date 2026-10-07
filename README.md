@@ -1,6 +1,6 @@
-# Chambre d’hôtes du Chaby — maquette Cloudflare Pages
+# Chambre d’hôtes du Chaby — site vitrine Cloudflare Pages
 
-Maquette non officielle, créée comme base de présentation. Les contenus, coordonnées, photos et disponibilités doivent être validés par l’établissement avant toute utilisation commerciale.
+Concept de site vitrine complet : identité SVG originale, typographies locales, montagne filaire 3D en Canvas, parallaxe, transitions et galerie photographique.
 
 ## Repères
 - Catégorie : Chambre d’hôtes · chalet
@@ -8,5 +8,5 @@ Maquette non officielle, créée comme base de présentation. Les contenus, coor
 - Source publique : https://www.ledevoluy.com/hiver/offres/chambre-dhotes-du-chaby-la-joue-du-loup-fr-hiver-5400857/
 - Déploiement : https://chambre-du-chaby.pages.dev
 
-## Personnalisation
-Remplacer le visuel de démonstration, compléter les coordonnées et vérifier chaque information. Aucun avis, tarif ou disponibilité n’est inventé dans cette maquette.
+## Sources et validation
+Les informations et photographies proviennent de la fiche publique de l’Office de tourisme. Coordonnées, tarifs, droits d’image et disponibilités doivent être confirmés avant utilisation commerciale.
